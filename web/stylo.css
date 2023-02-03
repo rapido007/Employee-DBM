@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 31, 2022, 12:05:03 PM
+    Author     : pc
+*/
+.border1{
+    border: 2px groove #DB4437;
+    border-radius: 10px;
+    background-color: #F7EEEE;
+    margin-top: 100px;
+}
+.button1{
+    border: 2px solid #DB4437;
+    border-radius: 5px;
+}
+.button1:hover{
+    border: 3px solid #FF5A5F;
+    height: 30px;
+    border-radius: 12px;
+}
+.text1
+{
+    border: 2px solid #FF5A5F;
+    border-radius: 6px;
+}
+.text1:hover{
+    border: 3px solid #FF5A5F;
+    height: 20px;
+    border-radius: 12px;
+}
+.border2
+{
+    margin-top: 150px;
+}
+.cell1{
+    padding: 20px;
+    border: 2px solid #FF5A5F;
+    border-radius: 20px;
+}
+.cell1:hover{
+    border: 3px solid #FF5A5F;
+    border-radius: 30px;
+}
+.cell2{
+    padding: 8px;
+    border: 2px solid #FF5A5F;
+    border-radius: 20px;
+}
+.rowspace1{
+    margin-bottom: 200px;
+}
+.margin1{
+    height: 60px;
+}
+.border4{
+    border: 2px groove #DB4437;
+    border-radius: 20px;
+    background-color: #F7EEEE;
+    margin: 100px;
+    height: 120px;
+}
+.cell3{
+    border: 3px solid #FF5A5F;
+    border-radius: 30px;
+}
+.cell4
+{
+    font-size: 30px;
+    font-family: sans-serif; 
+}
+.offer1
+{
+    border: 2px solid black;
+    margin: 10px;
+}
